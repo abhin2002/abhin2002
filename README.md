@@ -19,13 +19,9 @@
   </a>
 </div>
   
-
-</div>
-
 ---
 
 <!-- readme and loading gif -->
-<div>
 <h1>
   README
   <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="30px"/>
