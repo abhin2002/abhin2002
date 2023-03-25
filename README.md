@@ -18,16 +18,8 @@
     <img src="https://img.shields.io/badge/YouTube-maroon?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
-  &nbsp;
-  <!-- life is brainless -->
-<div>
-  <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="210"/>
-</div>
   
-<!-- view counter -->
-<div>
-    <img src="https://komarev.com/ghpvc/?username=nobleaustine&style=flat-circle&color=blue" alt=""/>  
- </div>
+
 </div>
 
 ---
