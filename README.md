@@ -17,16 +17,11 @@
   <a>
     <img src="https://img.shields.io/badge/YouTube-maroon?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+
 </div>
   
----
-
-<!-- readme and loading gif -->
-<h1>
-  README
-  <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="30px"/>
-</h1>
-</div>
+  ---
+  
 ## :octocat: GitHub Stats
 ![](https://komarev.com/ghpvc/?username=abhin2002&color=blue&style=for-the-badge)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhin2002&theme=github_dark)
