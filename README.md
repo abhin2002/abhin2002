@@ -36,4 +36,4 @@
 
 ## 🧠 Contributions
 
-- 💡 [BoxMOT](https://github.com/mikel-brostrom/boxmot): Suggested and helped resolve [Issue #2022](https://github.com/mikel-brostrom/boxmot/issues/297) – a critical multi-stream tracking bug during my internship at IIT Tirupati. The fix was merged and released by the maintainers.
+- 💡 [BoxMOT](https://github.com/mikel-brostrom/boxmot): Suggested and helped resolve [Issue #2022](https://github.com/mikel-brostrom/boxmot/issues/2022) – a critical multi-stream tracking bug during my internship at IIT Tirupati. The fix was merged and released by the maintainers.
