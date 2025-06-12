@@ -34,6 +34,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhin2002&theme=github_dark)
 
 
-## 🧠 Contributions
+## 🔧 Open Source Contributions
 
-- 💡 [BoxMOT](https://github.com/mikel-brostrom/boxmot): Suggested and helped resolve [Issue #2022](https://github.com/mikel-brostrom/boxmot/issues/2022) – a critical multi-stream tracking bug during my internship at IIT Tirupati. The fix was merged and released by the maintainers.
+- [BoxMOT – Issue #2022](https://github.com/mikel-brostrom/boxmot/issues/2022):  
+  Reported and suggested a fix for a multiprocessing error with CUDA (`spawn` method requirement).  
+  The issue was resolved and included in [v13.0.7](https://github.com/mikel-brostrom/boxmot/releases/tag/v13.0.7).  
+  Contribution made during my internship at **IIT Tirupati**.
