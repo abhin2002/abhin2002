@@ -32,3 +32,8 @@
 
 ## GitHub Profile Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhin2002&theme=github_dark)
+
+
+## 🧠 Contributions
+
+- 💡 [BoxMOT](https://github.com/mikel-brostrom/boxmot): Suggested and helped resolve [Issue #297](https://github.com/mikel-brostrom/boxmot/issues/297) – a critical multi-stream tracking bug during my internship at IIT Tirupati. The fix was merged and released by the maintainers.
